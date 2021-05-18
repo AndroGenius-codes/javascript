@@ -1,4 +1,4 @@
-
+/* solution to question number 1*/
 function convertFahrToCelsius (fahrenheit) {
   
   /* from the instructions of 1F = 1.8C + 32
@@ -27,7 +27,7 @@ convertFahrToCelsius()
 
 
 
-/*number two*/
+/*solution to question number two*/
 
 var arr = [];
 
